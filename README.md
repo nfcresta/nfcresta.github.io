@@ -1,2 +1,0 @@
-# nfcresta.github.io
-My personal page for public usage
